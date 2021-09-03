@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nvarun462, a student at the University of Michigan majoring in CS + Math!
-- 👀 I’m interested in the intersection of Finance, Math, and CS
+- 👀 I’m interested in the intersection of Finance, Math, and CS for applications in Quantitative Research & Trading
 - 📫 I can be reached at varunn@umich.edu
 - [Linkedin](https://www.linkedin.com/in/varun-n-77754414a/)
 
